@@ -1,0 +1,17 @@
+.container{
+         //border: 1px solid magenta; //temporary
+         width: 100vh;
+         height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    .card{
+          background-color: hsl(213, 19%, 18%);
+          width: 89%;
+          //height: 100px; //temporary
+          border-radius: 1.5rem;
+          padding: 2.5rem;
+
+        }
+}
